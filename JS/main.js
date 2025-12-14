@@ -21,3 +21,4 @@ Array.from(linkItems).forEach((link) => {
 });
 
 console.log(linkItems);
+
